@@ -9,11 +9,13 @@ public class Hello {
 		System.out.println("Hello world");
 	}
 	
-	
+	public static void sayPortuguese() {
+		System.out.println("Ola mundo");
+	}
 	
 	public static void main(String[] args) {
 		
-		//say();
+		sayPortuguese();
 		
 	}
 
