@@ -13,9 +13,14 @@ public class Hello {
 		System.out.println("Ola mundo");
 	}
 	
+	public static void saySpanish() {
+		System.out.println("ola que tal");
+	}
+	
+
 	public static void main(String[] args) {
 		
-		sayPortuguese();
+		saySpanish();
 		
 	}
 
